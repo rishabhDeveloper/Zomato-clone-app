@@ -1,0 +1,59 @@
+
+
+.header{
+
+    border:2px solid red;
+    height:50px;
+
+}
+
+#subHeading{
+    position :absolute;
+    color:white;
+    font-weight:bolder;
+    margin-left:35%;
+    font-size:40px;
+    margin-top: 13%;
+}
+.dropDown{
+    position:absolute;
+    margin-left:30%;
+    margin-top:20%;
+
+}
+#restraunts{
+    width:35%;
+}
+#city{
+    width:35%;
+}
+
+footer{
+
+    border:2px solid red;
+    height:100px;
+}
+
+.search{
+    height:400px;
+    background-image:url("image/food-wallpaper.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+#logo{
+    height:150px;
+    width:150px;
+    border:2px solid white;
+    background-color: white;
+    border-radius:50%;
+    position:absolute;
+    margin-left:45%;
+}
+
+#logo > span {
+    margin-left: 31%;
+    position: absolute;
+    font-size:90px;
+    color:#575152
+}
