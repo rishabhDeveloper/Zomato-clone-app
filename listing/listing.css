@@ -1,0 +1,228 @@
+/* body{
+    margin: auto;
+    background-color: #ecd4c9;
+}
+#header{
+    height: 60px;
+    background-color: #e09c83;
+}
+
+#icon{
+    margin-left: 1%;
+    margin-top:-1%;
+    position: absolute;
+    color:#fff;
+}
+
+#icon > h1 >a {
+    color:#fff !important;
+}
+
+#social{
+    float: right;
+    margin-right: 1%;
+} */
+
+
+/* a{
+    text-decoration: none;
+}
+
+.slogo{
+    height:50px;
+    width:50px;
+} */
+
+body {
+    margin: auto;
+    background-color: rgb(250, 215, 215);
+}
+
+
+/* Header-Starts */
+
+.header {
+    height: 50px;
+}
+
+h1 {
+    border: 0px solid;
+    background-color: orange;
+    font-family: 'Corinthia', cursive;
+    height: 60px;
+}
+
+#filterText {
+    text-align: center;
+    margin-left: 36%;
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgb(201, 74, 74)
+}
+
+select {
+    height: 26px;
+    width: 50%;
+    margin-left: 20%;
+}
+
+.foodCost {
+    padding: 5px;
+    margin-left: -2%;
+}
+
+.login {
+    float: right;
+    padding: 0;
+    margin: 0;
+    margin-top: -4%;
+    margin-right: 20%;
+}
+
+.foodTypeHeading {
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: center;
+}
+
+.checkboxItems {
+    padding: 2px;
+    margin-right: 61px;
+}
+
+#social {
+    float: right;
+    margin-top: -3%;
+    margin-left: 10%;
+    margin-right: 2%;
+}
+
+.slogo {
+    height: 50px;
+    width: 50px;
+    margin-top: -8%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+    padding: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: Black;
+}
+
+#subHeading {
+    position: absolute;
+    color: #2f2b0e;
+    font-weight: bolder;
+    margin-left: 30%;
+    font-size: 40px;
+    margin-top: 7%;
+}
+
+
+/* Search-starts */
+
+.dropDown {
+    height: 60px;
+    width: 60%;
+    margin-left: 25%;
+    margin-top: 12%;
+    position: absolute;
+    border-radius: 50%;
+}
+
+#restrauntSelection {
+    width: 65%;
+}
+
+#city {
+    width: 25%;
+}
+
+.search {
+    height: 300px;
+    background-image: url("image/food_wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#logo {
+    height: 80px;
+    width: 80px;
+    border: 2px solid #edb15e;
+    background-color: #d8902a;
+    border-radius: 44%;
+    position: absolute;
+    margin-left: 45%;
+    margin-top: -4%
+}
+
+#logo>span {
+    margin-left: 30%;
+    margin-top: 10%;
+    position: absolute;
+    font-size: 50px;
+    color: #e4d9aa;
+}
+
+.headingText {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: -3%;
+}
+
+#listingContainer {
+    width: 80%;
+    height: 800px;
+    margin-left: 10%
+}
+
+.filter {
+    width: 20%;
+    height: 600px;
+    display: flex;
+    box-shadow: 10px 20px 15px rgb(245, 165, 165);
+    background-color: rgb(235, 186, 186);
+}
+
+.content {
+    width: 74%;
+    height: 750px;
+    float: left;
+    margin-left: 5%
+}
+
+.listingContainer {
+    box-shadow: 10px 10px 5px rgb(133, 122, 122);
+    background-color: rgb(238, 228, 228);
+    width: 80%;
+}
+
+.listingComponent1>img {
+    height: 150px;
+    width: 240px
+}
+
+.listingComponent2 {
+    float: right;
+    margin-right: -24%;
+    margin-top: 1%;
+    font-weight: bolder;
+    color: Blue
+}
+
+.subtext {
+    float: right;
+    margin-left: -13%;
+    margin-right: 40%;
+    color: grey;
+    line-height: 1;
+}
